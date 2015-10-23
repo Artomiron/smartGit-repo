@@ -10,6 +10,27 @@ namespace SimpleClassExample
     {
         public int driveIntensivity;
         public string name;
+
+        //избыточная логика конструктора
+        public Moto(int intensivity)
+        {
+            if(intensivity > 10)
+            {
+                intensivity = 10;
+            }
+            this.driveIntensivity = intensivity;
+        }
+
+        public Moto(int intensivity, string name)
+        {
+            if(intensivity > 10)
+            {
+                intensivity = 10;
+            }
+            this.driveIntensivity = intensivity;
+            this.name = name;
+        }
+
         public void SetDriverName(string name)
         {
             this.name = name;
@@ -27,9 +48,5 @@ namespace SimpleClassExample
 
         }
 
-        public Moto(int intensity)
-        {
-            driveIntensivity = intensity;
-        }
     }
 }
