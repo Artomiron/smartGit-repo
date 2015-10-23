@@ -1,0 +1,15 @@
+E:\Study\studio 2013\c#\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+E:\Study\studio 2013\c#\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+E:\Study\studio 2013\c#\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+E:\Study\studio 2013\c#\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
+E:\Study\studio 2013\c#\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+E:\Study\studio 2013\c#\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.pdb
+E:\Study\c#\firs book\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+E:\Study\c#\firs book\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+E:\Study\c#\firs book\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.pdb
+E:\Study\c#\firs book\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+E:\Study\c#\firs book\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+E:\Study\c#\firs book\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
+E:\Study\Git\smartGit\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+E:\Study\Git\smartGit\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+E:\Study\Git\smartGit\SimpleClassExample\obj\Debug\SimpleClassExample.pdb
