@@ -11,16 +11,12 @@ namespace SimpleClassExample
         public int driveIntensivity;
         public string name;
 
-        //избыточная логика конструктора
+        public Moto() {}
+        
         public Moto(int intensivity)
-        {
-            if(intensivity > 10)
-            {
-                intensivity = 10;
-            }
-            this.driveIntensivity = intensivity;
-        }
-
+            :this(intensivity, "") {}
+       
+        //main constructor
         public Moto(int intensivity, string name)
         {
             if(intensivity > 10)
@@ -43,10 +39,7 @@ namespace SimpleClassExample
             }
         }
 
-        public Moto()
-        {
 
-        }
 
     }
 }
